@@ -1,1 +1,1 @@
-web: java -jar target/videochat-0.0.1-SNAPSHOT.war --server.port=$PORT
+web: java -jar target/0.0.1-SNAPSHOT.war --server.port=$PORT
